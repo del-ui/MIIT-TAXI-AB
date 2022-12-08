@@ -1,7 +1,7 @@
 {
-  "name": "exicubeapps",
+  "name": "victor",
   "version": "1.9.2",
-  "description": "Exicube App Solutions",
+  "description": "V-FAB Tech Solutions",
   "scripts": {
     "app": "yarn workspace mobile-app start",
     "app:update": "yarn workspace mobile-app update",
@@ -20,7 +20,7 @@
     "functions",
     "common"
   ],
-  "author": "Exicube App Solutions (OPC) Private Limited",
+  "author": "V-FAB Tech @254",
   "private": true,
   "dependencies": {
     "concurrently": "7.0.0",
