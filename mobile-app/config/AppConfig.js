@@ -1,0 +1,8 @@
+module.exports.AppConfig = {
+        app_name: 'MIIT TAXI AB', 
+        app_description: 'An app for taxi booking, making your travelling easy', 
+        app_identifier: 'com.victor.taxi', 
+        ios_app_version: '1.0.0', 
+        android_app_version: 100, 
+        facebookAppId: '12345', 
+    }

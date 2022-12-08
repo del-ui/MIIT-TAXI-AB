@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "79313852806",
+    "firebase_url": "https://miit-tax-ab-default-rtdb.firebaseio.com",
+    "project_id": "miit-tax-ab",
+    "storage_bucket": "miit-tax-ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:79313852806:android:23c7bac752d84773fe3407",
+        "android_client_info": {
+          "package_name": "com.victor.taxi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "79313852806-gg4o4sb5ijijmag0mshbnl2n9m5rb781.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7ZOVKFmCEjseWpG3xJStAp7m76jgIZ2w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "79313852806-gg4o4sb5ijijmag0mshbnl2n9m5rb781.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "79313852806-jbrfscdhtnuotbifsh36l9dqgetlnese.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.victor..taxi"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
